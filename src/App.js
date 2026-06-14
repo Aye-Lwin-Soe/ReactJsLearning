@@ -1,10 +1,10 @@
 import './App.css';
-import Extension from './components/Extension';
+import UseStateButton from './components/UseStateButton';
 
 function App() {
     return (
         <>
-            <Extension />
+            <UseStateButton />
         </>
     )
 }

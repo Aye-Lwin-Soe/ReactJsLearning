@@ -1,0 +1,18 @@
+
+State Management
+=====================
+- Hooks, Redux (value update , delete) 
+
+- Class Component & Functional Component (Hooks, Redux, MabX) library
+
+Hooks
+=========
+react build in include fuction > start react version 16.8
+
+for good performance
+
+data manage
+
+user > not cancel >> browser store
+
+cache file >> store >> a little delay
