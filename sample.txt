@@ -27,3 +27,19 @@ npm create-react-app foldername
 yarn create react-app foldername
 
 Component base => React
+
+=============================================
+
+React Documentation
+
+1: https://create-react-app.dev/
+
+2: https://react.dev/
+
+================================================
+
+Extension
+
+ES7+ React/Redux/React-Native snippets (rafce >> reactArrowFunctionExportComponent)
+
+Prettier Code Formatter (Right Click >> Format Document With >> Prettier Code Formatter)

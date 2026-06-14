@@ -20,3 +20,9 @@ redux => state management
 
 clickEvent() => this call တန်းပီးပဲ ပေါ်တယ်နှိပ်ရင် အလုပ်မလုပ်တော့ 
 clickEvent => this call နှိပ်မှ ပေါ်တယ် 
+
+===========================================================================================
+
+return () => JSX
+
+return () => not use () => prefail / pred fail
