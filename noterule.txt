@@ -1,0 +1,22 @@
+1. Must be one parent level (<div>hello</div><div>hi</div> >> not use) 
+
+2. Must use className instead of class in HTML
+
+3. Must use htmlFor instead of for in HTML
+
+4. all tag must be self closing tag (must contain / )
+
+
+
+=====================================================================================
+
+props => property / parameter => data passing give
+
+array destructoring
+object destructoring >> { name, email, password}
+
+hook
+redux => state management
+
+clickEvent() => this call တန်းပီးပဲ ပေါ်တယ်နှိပ်ရင် အလုပ်မလုပ်တော့ 
+clickEvent => this call နှိပ်မှ ပေါ်တယ် 

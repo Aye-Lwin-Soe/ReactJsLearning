@@ -1,0 +1,29 @@
+material icon theme (icon show) => settings/Themes/file icon theme/material icon theme
+
+React
+
+React Package
+
+React Dom (React Dom vs Virtual DOM ) - React Dom (browser working)
+
+Babel JS (error display) (for good)
+
+ESLin (error display)
+
+Webpack (JSX) fileတွေ များတဲ့ အခါ loading time ကြာတာတွေ မဖြစ်ရအောင်မို့ သုံးရတာ run တဲ့အခါ ဖိုင် တခုထဲ စုပီး run သွားလို့ပိုမြန်
+
+Vanila Js (pure js) vs React Js => JSX (javascript syntax expression)
+
+Other => Template base
+
+React => Component Base (Frame ၁ခုပဲရှိတယ် အစားထိုးသွားတယ်) (SPA Framework) - Single Page Application (Vue, React , Angular)
+
+Page (Home , About, Service)
+
+npm run start (npm start)
+
+npm create-react-app foldername
+
+yarn create react-app foldername
+
+Component base => React
