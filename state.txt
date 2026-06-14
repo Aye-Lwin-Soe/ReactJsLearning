@@ -16,3 +16,15 @@ data manage
 user > not cancel >> browser store
 
 cache file >> store >> a little delay
+
+================================================
+
+Code Splitting >> code ပိုငး်ခြား (user experience good)
+
+Component base application
+
+frame changes no >> data only changes (only one frame)
+
+Webpack >> ပြန့်ကျဲနေတဲ့ ဖိုင်တွေအကုန်လုံးကို တစုတစည်းထဲ ဖြစ်အောင်လုပ်ပီး render ပြန်လုပ်ပေး (loading faster run)
+
+Modularating good >> package used and install (download and connect faster)

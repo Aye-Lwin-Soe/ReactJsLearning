@@ -22,9 +22,9 @@ Page (Home , About, Service)
 
 npm run start (npm start)
 
-npm create-react-app foldername
+npm create-react-app projectname
 
-yarn create react-app foldername
+yarn create react-app projectname
 
 Component base => React
 
